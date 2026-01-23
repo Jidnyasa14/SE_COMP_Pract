@@ -1,3 +1,4 @@
 # SE_COMP_Pract
 this is my first WT practical
 Author:-Jidnyasa
+Subject:Multidisciplinary Minor
